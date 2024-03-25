@@ -39,8 +39,8 @@ body {
 
 .form-control {
     display: flex;
-    flex-direction: column;
     flex: 1;
+    flex-direction: column;
     margin-bottom: 1rem;
 }
 
